@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Verilog/AMBA/rtl
+T_opt
+!s110 1683940037
+VGN`@KRf@B<NAG<NE2LNb43
+04 9 4 work master_tb fast 0
+=1-9829a620989d-645ee2c4-63-361c
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+R0
+vamba_ahb_top
+Z1 !s110 1684158752
+!i10b 1
+!s100 ?1b_Om4Gg0Za9JfzHl>aC3
+IjL>LJBOk4g5g`YhVWcA1;2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1684140329
+8E:/Verilog/AMBA/rtl/amba_ahb_top.v
+FE:/Verilog/AMBA/rtl/amba_ahb_top.v
+L0 2
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1684158751.988000
+!s107 defines.v|E:/Verilog/AMBA/rtl/amba_ahb_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog/AMBA/rtl/amba_ahb_top.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+varbiter
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 gd50GN:[SVGde9a0kYR=T3
+IPkRJE3Z7i]?Zd<nXWEmY92
+R0
+w1683777033
+8E:/Verilog/AMBA/rtl/arbiter.v
+FE:/Verilog/AMBA/rtl/arbiter.v
+L0 3
+R3
+!s108 1684158752.103000
+!s107 defines.v|E:/Verilog/AMBA/rtl/arbiter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog/AMBA/rtl/arbiter.v|
+!i113 0
+R4
+vdecoder
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 =F=]l4EbEY;:Lg=`ajmIK2
+I:F`B:b69B;[`A3oF9Sn:F0
+R0
+w1684157222
+8E:\Verilog\AMBA\rtl\decoder.v
+FE:\Verilog\AMBA\rtl\decoder.v
+L0 4
+R3
+!s108 1684158752.220000
+!s107 defines.v|E:\Verilog\AMBA\rtl\decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\Verilog\AMBA\rtl\decoder.v|
+!i113 0
+R4
+vip_pll
+R1
+!i10b 1
+!s100 HE7TL`C=HlOOZWn7`m1eN3
+I3S:i>g^WHgBi`V8K5?3D?0
+R2
+R0
+w1684054434
+8E:/Verilog/AMBA/rtl/ip_core/ip_pll.v
+FE:/Verilog/AMBA/rtl/ip_core/ip_pll.v
+L0 39
+R3
+r1
+!s85 0
+31
+!s108 1684158752.734000
+!s107 E:/Verilog/AMBA/rtl/ip_core/ip_pll.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog/AMBA/rtl/ip_core/ip_pll.v|
+!i113 0
+R4
+vmaster
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^zz9;iXd6d<OCaOB2L[0m3
+IFC10gZN9DJVT_QVn:_`WN1
+R0
+w1684158585
+8E:\Verilog\AMBA\rtl\master.v
+FE:\Verilog\AMBA\rtl\master.v
+L0 4
+R3
+!s108 1684158752.419000
+!s107 defines.v|E:\Verilog\AMBA\rtl\master.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\Verilog\AMBA\rtl\master.v|
+!i113 0
+R4
+vmaster2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 mz]8:`?CnHG`98di_C[=h0
+ICBD=G<2HTYQBB]Oc0Qe862
+R0
+w1684158745
+8E:/Verilog/AMBA/rtl/master2.v
+FE:/Verilog/AMBA/rtl/master2.v
+L0 4
+R3
+!s108 1684158752.950000
+!s107 defines.v|E:/Verilog/AMBA/rtl/master2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog/AMBA/rtl/master2.v|
+!i113 0
+R4
+vmaster_tb
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]YFTE;f]g3XCLE;a`U>G=2
+Ii6TU]7N@ENFWE[9P^3_9`0
+R0
+w1684154575
+8E:/Verilog/AMBA/rtl/AHB_tb.v
+FE:/Verilog/AMBA/rtl/AHB_tb.v
+L0 2
+R3
+!s108 1684158751.778000
+!s107 E:/Verilog/AMBA/rtl/AHB_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog/AMBA/rtl/AHB_tb.v|
+!i113 0
+R4
+vmux_m2s
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 8Q^C5g=SH:loUZATEb_>U3
+I?OYNoWKUkhahzicA1eJ>X2
+R0
+w1684154533
+8E:/Verilog/AMBA/rtl/mux_m2s.v
+FE:/Verilog/AMBA/rtl/mux_m2s.v
+L0 1
+R3
+!s108 1684158752.521000
+!s107 E:/Verilog/AMBA/rtl/mux_m2s.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog/AMBA/rtl/mux_m2s.v|
+!i113 0
+R4
+vmux_s2m
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 EJ7ZkL074HdO@kmYS0m=U0
+IdojjQ@7FaE2DIaEUnhS_l1
+R0
+w1683684729
+8E:/Verilog/AMBA/rtl/mux_s2m.v
+FE:/Verilog/AMBA/rtl/mux_s2m.v
+L0 1
+R3
+!s108 1684158752.624000
+!s107 E:/Verilog/AMBA/rtl/mux_s2m.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog/AMBA/rtl/mux_s2m.v|
+!i113 0
+R4
+vslave
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 aIzK8zH16:?T>O9@f`kdS1
+I@`I_a3ZX56oS8;QNNihYz2
+R0
+w1684133985
+8E:\Verilog\AMBA\rtl\slave.v
+FE:\Verilog\AMBA\rtl\slave.v
+L0 7
+R3
+!s108 1684158751.670000
+!s107 defines.v|E:\Verilog\AMBA\rtl\slave.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\Verilog\AMBA\rtl\slave.v|
+!i113 0
+R4
+vslave_ram
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 1HhA2<:4Xg]Z8KY^LbcHO0
+I66lPf91Mj^oMVARgBnH:32
+R0
+w1684158393
+8E:\Verilog\AMBA\rtl\slave_ram.v
+FE:\Verilog\AMBA\rtl\slave_ram.v
+L0 7
+R3
+!s108 1684158752.846000
+!s107 defines.v|E:\Verilog\AMBA\rtl\slave_ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\Verilog\AMBA\rtl\slave_ram.v|
+!i113 0
+R4

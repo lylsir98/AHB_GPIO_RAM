@@ -1,0 +1,53 @@
+E:/Verilog/AMBA/rtl/defines.v {1 {vlog -work work -vopt -stats=none {E:\Verilog\AMBA\rtl\defines.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+
+} {} {}} E:/Verilog/AMBA/rtl/AHB_tb.v {1 {vlog -work work -vopt -stats=none E:/Verilog/AMBA/rtl/AHB_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module master_tb
+
+Top level modules:
+	master_tb
+
+} {} {}} E:/Verilog/AMBA/rtl/arbiter.v {1 {vlog -work work -vopt -stats=none E:/Verilog/AMBA/rtl/arbiter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module arbiter
+
+Top level modules:
+	arbiter
+
+} {} {}} E:/Verilog/AMBA/rtl/mux_m2s.v {1 {vlog -work work -vopt -stats=none E:/Verilog/AMBA/rtl/mux_m2s.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux_m2s
+
+Top level modules:
+	mux_m2s
+
+} {} {}} E:/Verilog/AMBA/rtl/mux_s2m.v {1 {vlog -work work -vopt -stats=none E:/Verilog/AMBA/rtl/mux_s2m.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux_s2m
+
+Top level modules:
+	mux_s2m
+
+} {} {}} E:/Verilog/AMBA/rtl/slave.v {1 {vlog -work work -vopt -stats=none {E:\Verilog\AMBA\rtl\slave.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module slave
+
+Top level modules:
+	slave
+
+} {} {}} E:/Verilog/AMBA/rtl/decoder.v {1 {vlog -work work -vopt -stats=none {E:\Verilog\AMBA\rtl\decoder.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} E:/Verilog/AMBA/rtl/ip_core/ip_pll.v {1 {vlog -work work -vopt -stats=none E:/Verilog/AMBA/rtl/ip_core/ip_pll.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ip_pll
+
+Top level modules:
+	ip_pll
+
+} {} {}}
